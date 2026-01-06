@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 <p>
   <i class="fas fa-envelope"></i>
-  <a href="mailto:luoxiantong@bjut.edu.cn">luoxiantong@bjut.edu.cn</a>
+  <a href="mailto:lixiaolin@bjut.edu.cn">lixiaolin@bjut.edu.cn</a>
 </p>
 
 <p>
