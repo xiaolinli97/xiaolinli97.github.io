@@ -38,7 +38,9 @@ In recent years, I have authored over 10 publications in prestigious SCI journal
 
 <h3><i class="fas fa-user"></i> 研究简介（中文）</h3>
 <div class="about-block about-block-zh">
-我目前任职于北京工业大学计算机学院，从事分布式人工智能与智能医学传感领域的教学与科研工作。研究兴趣深度聚焦于<span style="color:#1f6feb;"><strong>分布式人工智能、边缘计算与生物医学信号处理</strong></span>的前沿交叉方向。围绕<span style="color:#1f6feb;"><strong>云边协同环境下复杂生理信号分析的执行确定性与推理可靠性</strong></span>这一核心主线，我系统研究了异构边缘资源约束下的高效感知与智能决策问题。研究重点包括：高鲁棒性医学信号异常检测算法、可解释深度学习模型、以及面向可穿戴设备的边缘侧轻量化部署与协同优化技术。相关研究致力于为智慧医疗与自主感知系统提供兼具理论支撑与工程可行性的系统级方案。
+我目前任职于北京工业大学计算机学院，从事分布式人工智能与智能医学传感领域的教学与科研工作。研究兴趣深度聚焦于<span style="color:#1f6feb;"><strong>分布式人工智能、边缘计算与生物医学信号处理</strong></span>的前沿交叉方向。
+  
+围绕<span style="color:#1f6feb;"><strong>云边协同环境下复杂生理信号分析的执行确定性与推理可靠性</strong></span>这一核心主线，我系统研究了异构边缘资源约束下的高效感知与智能决策问题。研究重点包括：高鲁棒性医学信号异常检测算法、可解释深度学习模型、以及面向可穿戴设备的边缘侧轻量化部署与协同优化技术。相关研究致力于为智慧医疗与自主感知系统提供兼具理论支撑与工程可行性的系统级方案。
   
 我曾受<span style="color:#1f6feb;"><strong>国家留学基金委(CSC)</strong></span>资助前往爱尔兰都柏林大学（UCD）攻读工学博士学位，并受<span style="color:#1f6feb;"><strong>国家留学基金委</strong></span>资助赴瑞士日内瓦，在<span style="color:#1f6feb;"><strong>联合国(UN)国际电信联盟（ITU）</strong></span>开展人工智能电信国际标准化研究。此外，我还曾深度参与华为2012实验室智能运维与AI应用研发，并斩获“华为时间序列异常检测挑战赛”全球冠军。
 
