@@ -9,7 +9,7 @@ nav_order: 4
 
 ### Email
 
-luoxiantong@bjut.edu.cn
+lixiaolin@bjut.edu.cn
 
 
 ### Address
